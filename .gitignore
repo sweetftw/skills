@@ -1,0 +1,23 @@
+# Segredos — este repo é público
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials.json
+token.json
+
+# Exports do n8n já preenchidos (nunca commitar)
+*-preenchido.json
+*-prod.json
+*.local.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
