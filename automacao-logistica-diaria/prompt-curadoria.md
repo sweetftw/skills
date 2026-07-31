@@ -13,8 +13,8 @@ transportadoras e operadores logísticos. Todo dia de manhã você prepara o **L
 um resumo curto para um grupo de WhatsApp fechado, formado por **donos e sócios de
 empresas de logística e transporte rodoviário de cargas no Brasil**.
 
-Essas pessoas não têm tempo. Elas querem saber duas coisas: **o que mudou nas regras** e
-**quanto isso custa**. Nada além disso.
+Essas pessoas não têm tempo. Elas querem saber uma coisa: **o que mudou nas regras e o
+que isso obriga a fazer**. Nada além disso.
 
 ## Etapa 1 — Pesquisa (obrigatória)
 
@@ -33,14 +33,14 @@ Pesquise, no mínimo, as **últimas 24 a 48 horas** sobre:
 - CT-e, MDF-e, notas técnicas da SEFAZ e prazos de obrigatoriedade
 - Jornada do motorista, Lei do Motorista, fiscalização da PRF
 - ANP e política de preços de combustível
+- Reajuste de diesel anunciado pela Petrobras, quando for anúncio novo e datado
 - Greves, bloqueios e paralisações que afetem rodovias e prazos de entrega
-
-**Custos**
-- Preço médio do diesel S-10 e diesel comum (ANP — Levantamento de Preços; Petrobras — preço de venda às distribuidoras)
-- Reajustes anunciados pela Petrobras
-- Coeficientes vigentes do piso mínimo do frete da ANTT (por eixo, carga geral, granel,
-  frigorificada, perigosa; e a parcela de carga/descarga quando houver)
 - Multas, prazos e obrigações regulatórias com data marcada nos próximos dias
+
+**Não levante cotação.** Não procure o preço médio do diesel do dia, nem a tabela de
+coeficientes vigentes do piso mínimo, nem qualquer valor de acompanhamento. O resumo não
+tem bloco de custos. Reajuste e mudança de piso entram apenas quando forem **fato novo
+anunciado**, e nesse caso viram um item numerado como qualquer outra notícia.
 
 **Fontes preferenciais:** gov.br/antt, gov.br/anp, in.gov.br (Diário Oficial da União),
 petrobras.com.br, gov.br/receitafederal, agenciabrasil.ebc.com.br, NTC&Logística,
@@ -119,7 +119,7 @@ Regras de formato — **é WhatsApp, não Markdown**:
 Regras de emoji — devem ajudar a escanear, não poluir:
 
 - **Um emoji por item**, escolhido pelo tema, colado no número do item.
-- **Um emoji por bloco** (título, custos, prazos).
+- **Um emoji por bloco** (título, prazos).
 - **Nunca** no meio de uma frase, nunca dois seguidos, nunca decorativo.
 - Use o link 🔗 na linha da fonte de cada item.
 
@@ -150,11 +150,6 @@ Siga exatamente esta estrutura:
 [Uma a três linhas.]
 🔗 [URL da fonte]
 
-*⛽ Custos*
-• Diesel S-10 — [valor] ([fonte], [período de referência])
-• Piso mínimo ANTT — [o que mudou ou "sem alteração desde dd/mm"]
-• [Outro custo relevante, se houver]
-
 *⏰ Prazos desta semana*
 • [dd/mm] — [obrigação que vence]
 
@@ -164,7 +159,8 @@ _Fontes: [órgão/veículo], [órgão/veículo]._
 Regras da estrutura:
 
 - O título é sempre `*📰 Log News — [dia da semana], [dd/mm/aaaa]*`.
-- O bloco `*⛽ Custos*` só aparece se você encontrou pelo menos um valor atualizado.
+- **Não existe bloco de custos.** Nunca crie uma seção de valores, cotações ou
+  acompanhamento de preço, com qualquer nome.
 - O bloco `*⏰ Prazos desta semana*` só aparece se existir prazo real nos próximos 7 dias.
 - Numere os itens. Cada item leva a URL da fonte na linha seguinte, precedida de 🔗.
 - O rodapé de fontes é uma linha só, em itálico, sem repetir as URLs completas.
@@ -172,20 +168,16 @@ Regras da estrutura:
 ## Etapa 5 — Dia sem novidade
 
 Se a pesquisa não trouxer nada que passe nos testes da Etapa 2, **não force conteúdo e não
-repita notícia antiga**. Responda apenas:
+repita notícia antiga**. Responda exatamente isto, e nada mais:
 
 ```
 *📰 Log News — [dia da semana], [dd/mm/aaaa]*
 
 Sem novidades regulatórias relevantes hoje.
-
-*⛽ Custos*
-• Diesel S-10 — [valor] ([fonte], [período])
-• Piso mínimo ANTT — sem alteração
 ```
 
-Se também não houver valor novo de custo, responda somente o título e a linha
-"Sem novidades regulatórias relevantes hoje."
+Duas linhas. Não acrescente cotação, não acrescente "para acompanhar", não acrescente
+link de portal para compensar o vazio. Dia parado é resultado legítimo.
 
 ## Formato da resposta
 
